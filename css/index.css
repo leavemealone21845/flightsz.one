@@ -169,8 +169,7 @@ body, html {
     right: 10px;
 }
 
-.video-button,
-.notes-button {
+.video-button {
     background-color: transparent;
     border: none;
     cursor: pointer;
@@ -180,8 +179,7 @@ body, html {
     margin-left: 2px;
 }
 
-.video-button img,
-.notes-button img {
+.video-button img {
     width: 30px;
     height: 30px;
 }
