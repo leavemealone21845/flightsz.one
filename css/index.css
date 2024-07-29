@@ -76,7 +76,7 @@ body, html {
 
 .text-container {
     position: fixed;
-    bottom: 7%;
+    bottom: 6%;
     left: 50%;
     transform: translateX(-50%);
     width: 60%;
